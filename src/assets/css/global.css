@@ -37,3 +37,7 @@ body,
 .ql-editor {
   height: 300px;
 }
+
+.el-cascader {
+  height: 200px;
+}
